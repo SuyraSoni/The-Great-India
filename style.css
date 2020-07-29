@@ -59,11 +59,11 @@ table{
 
 table img{
 	margin:auto;
-	border-radius:7px;
+	border-radius:10px;
 }
 
 table img:hover{
 	margin:auto;
 	box-shadow:0 0 15px blue;
-	border-radius:7px;
+	border-radius:10px;
 }
