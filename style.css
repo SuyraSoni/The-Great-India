@@ -60,4 +60,5 @@ table{
 table img:hover{
 	margin:auto;
 	box-shadow:0 0 15px blue;
+	border-radius:7px;
 }
